@@ -1,2 +1,2 @@
 # Brainfuck-interpreter-written-in-C
-brainf**k
+brainf**kっぽいのが動くC言語のインタラプタ
